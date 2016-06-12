@@ -1,0 +1,37 @@
+@charset "UTF-8";
+.mainbox {
+	width: 1250px;
+
+}
+.header {
+	width: 1250px;
+	float: right;
+}
+.distributers {
+	width: 1250px;
+	text-align: center;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+}
+.copy {
+	width: 1250px;
+	text-align: center;
+	font-size: x-small;
+}
+.headerlinks {
+	width: 1250px;
+	text-align: right;
+}
+.info {
+	font-size: 21px;
+	text-align: center;
+	width: 1250px;
+	margin-top: 0px;
+}
+.dist {
+	font-size: 20px;
+	text-decoration: underline;
+	text-align: center;
+	color: #C63C00;
+}
